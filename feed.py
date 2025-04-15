@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Bot Token & Group ID
 TOKEN = "7473248262:AAGSTVPyhhk8Qumr4gMPyzHsq4AGUFDOghg"  # Replace with actual bot token
-CHANNEL_ID = -1002348990039  # Replace with your group/channel ID
+CHANNEL_ID = -1002142855213  # Replace with your group/channel ID
 
 # Attack & Cooldown Config
 COOLDOWN_DURATION = 60  # 60 sec cooldown
